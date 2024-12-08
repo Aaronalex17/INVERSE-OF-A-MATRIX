@@ -19,7 +19,8 @@ print(b)
 ```
 
 ## Output:
-![Screenshot 2024-12-04 210618](https://github.com/user-attachments/assets/3460818d-b008-4ec4-b28e-525d62b15dfa)
+![Screenshot (44)](https://github.com/user-attachments/assets/9ede6325-3c1e-4f67-bc30-40430287de64)
+
 
 
 ## Result:
